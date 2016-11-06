@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ping-pong
+//  dual-ping-pong
 //
-//  Created by Sathvik Katam on 11/5/16.
+//  Created by Sathvik Katam on 11/6/16.
 //  Copyright © 2016 Sathvik Katam. All rights reserved.
 //
 

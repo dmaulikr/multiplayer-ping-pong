@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ping-pong.xcscheme</key>
+		<key>dual-ping-pong.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2A5F82731DCDEF2900E9479A</key>
+		<key>2A5F82971DCF3E7A00E9479A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A5F82B11DCF3E7A00E9479A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A5F82BC1DCF3E7A00E9479A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

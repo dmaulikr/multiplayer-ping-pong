@@ -1,17 +1,18 @@
 //
 //  GameScene.swift
-//  ping-pong
+//  dual-ping-pong
 //
-//  Created by Sathvik Katam on 11/5/16.
+//  Created by Sathvik Katam on 11/6/16.
 //  Copyright © 2016 Sathvik Katam. All rights reserved.
 //
+
 
 import SpriteKit
 import GameplayKit
 
 class GameScene: SKScene {
     
-   
+    
     var Enemy = SKSpriteNode()
     var Player = SKSpriteNode()
     var Target = SKSpriteNode()
@@ -30,7 +31,7 @@ class GameScene: SKScene {
         self.physicsBody = border
         
         
-           }
+    }
     
     
     

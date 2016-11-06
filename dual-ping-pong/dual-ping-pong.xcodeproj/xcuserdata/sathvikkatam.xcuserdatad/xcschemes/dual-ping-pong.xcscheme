@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A5F82731DCDEF2900E9479A"
-               BuildableName = "ping-pong.app"
-               BlueprintName = "ping-pong"
-               ReferencedContainer = "container:ping-pong.xcodeproj">
+               BlueprintIdentifier = "2A5F82971DCF3E7A00E9479A"
+               BuildableName = "dual-ping-pong.app"
+               BlueprintName = "dual-ping-pong"
+               ReferencedContainer = "container:dual-ping-pong.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2A5F82B11DCF3E7A00E9479A"
+               BuildableName = "dual-ping-pongTests.xctest"
+               BlueprintName = "dual-ping-pongTests"
+               ReferencedContainer = "container:dual-ping-pong.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2A5F82BC1DCF3E7A00E9479A"
+               BuildableName = "dual-ping-pongUITests.xctest"
+               BlueprintName = "dual-ping-pongUITests"
+               ReferencedContainer = "container:dual-ping-pong.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A5F82731DCDEF2900E9479A"
-            BuildableName = "ping-pong.app"
-            BlueprintName = "ping-pong"
-            ReferencedContainer = "container:ping-pong.xcodeproj">
+            BlueprintIdentifier = "2A5F82971DCF3E7A00E9479A"
+            BuildableName = "dual-ping-pong.app"
+            BlueprintName = "dual-ping-pong"
+            ReferencedContainer = "container:dual-ping-pong.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A5F82731DCDEF2900E9479A"
-            BuildableName = "ping-pong.app"
-            BlueprintName = "ping-pong"
-            ReferencedContainer = "container:ping-pong.xcodeproj">
+            BlueprintIdentifier = "2A5F82971DCF3E7A00E9479A"
+            BuildableName = "dual-ping-pong.app"
+            BlueprintName = "dual-ping-pong"
+            ReferencedContainer = "container:dual-ping-pong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A5F82731DCDEF2900E9479A"
-            BuildableName = "ping-pong.app"
-            BlueprintName = "ping-pong"
-            ReferencedContainer = "container:ping-pong.xcodeproj">
+            BlueprintIdentifier = "2A5F82971DCF3E7A00E9479A"
+            BuildableName = "dual-ping-pong.app"
+            BlueprintName = "dual-ping-pong"
+            ReferencedContainer = "container:dual-ping-pong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
